@@ -1,2 +1,0 @@
-# flatpagetemplates
-Templates for flatpages.
